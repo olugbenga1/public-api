@@ -1,3 +1,5 @@
+---
+
 ```
 # Public API (NestJS)
 
@@ -8,14 +10,17 @@ A lightweight API that returns a JSON response with a dummy email, current UTC d
 ## :rocket: Setup
 
 ### Prerequisites
+
 Node.js (v18+)
 npm/yarn/pnpm
 
 ### Installation
+
 Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
 ```
 
 Install dependencies:
