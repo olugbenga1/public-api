@@ -1,4 +1,4 @@
-````
+```
 # Public API (NestJS)
 
 A lightweight API that returns a JSON response with a dummy email, current UTC datetime in ISO 8601 format, and a GitHub repository URL. Built with NestJS and TypeScript.
@@ -16,7 +16,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-````
+```
 
 Install dependencies:
 
