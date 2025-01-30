@@ -7,7 +7,7 @@ export class PublicController {
     const response = {
       email: 'odedeleg@gmail.com',
       current_datetime: new Date().toISOString(),
-      github_url: 'https://github.com/olugbenga1',
+      github_url: 'https://github.com/olugbenga1/public-api',
     };
     return response;
   }
