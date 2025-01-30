@@ -1,8 +1,10 @@
 # Public API (NestJS)
 
+## Description
+
 A lightweight API that returns a JSON response with a dummy email, current UTC datetime in ISO 8601 format, and a GitHub repository URL. Built with NestJS and TypeScript.
 
-## :rocket: Setup
+## :rocket: Setup Instructions
 
 ### Prerequisites
 
@@ -65,3 +67,4 @@ Access the API at:
 
 CORS is enabled by default.
 Response time optimized (< 500ms).
+Hire [Nodejs Developers](https://hng.tech/hire/nodejs-developers)
